@@ -1,1 +1,1 @@
-Welcome to K8s learning !!!
+Welcome to Kubernetes learning !!!
